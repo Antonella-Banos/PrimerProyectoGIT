@@ -1,0 +1,22 @@
+/* Selectores */
+
+*{background-color: rgb(243, 154, 95);}
+
+.imagen {border-radius: 1em;}
+
+h1 { color: rgb(105, 12, 192);
+font-family: roboto mono;}
+
+h2 {color: rgb(105, 12, 192);
+font-family: roboto mono;}
+
+li {font-family: roboto mono;
+font-weight: bold;}
+
+p {font-family: roboto mono;
+font-weight: 100;}
+
+label {font-family: roboto mono;
+font-weight: bold;}
+
+strong {font-style: italic;}
