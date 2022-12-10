@@ -4,7 +4,7 @@
 
 .imagen {border-radius: 2em;}
 
-main {text-align: center;}
+div {text-align: center;}
 
 h1 { color: rgb(105, 12, 192);
 font-family: roboto mono;}
@@ -13,7 +13,7 @@ h2 {color: rgb(105, 12, 192);
 font-family: roboto mono;}
 
 li {font-family: roboto mono;
-font-weight: bold;}
+font-weight: bold; align-items: center;}
 
 p {font-family: roboto mono;
 font-weight: 100;}
@@ -22,3 +22,5 @@ label {font-family: roboto mono;
 font-weight: bold;}
 
 strong {font-style: italic;}
+
+
