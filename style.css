@@ -13,14 +13,17 @@ h2 {color: rgb(105, 12, 192);
 font-family: roboto mono;}
 
 li {font-family: roboto mono;
-font-weight: bold; align-items: center;}
+font-weight: bold; align-items: center; list-style-position: inside;}
 
 p {font-family: roboto mono;
-font-weight: 100;}
+font-weight: 300;}
 
 label {font-family: roboto mono;
 font-weight: bold;}
 
-strong {font-style: italic;}
+strong {font-style: italic; text-decoration: underline;}
+
+.double {border: 5px double;
+    padding: 5px;}
 
 
